@@ -1,0 +1,32 @@
+
+#### Data
+
+This data shows the answers toward the survey with the main topic of Star Wars,
+in which question mainly range from favorite film ranking to watched films and their demographic data.
+The data source is from *"https://github.com/rfordatascience/tidytuesday/tree/master/data/2018/2018-05-14"*
+
+
+#### Purpose
+
+The purpose of the app is to:
+
+1. show how the number of survey completion and their basic Star Wars involvement,
+2. show how the different plots between favorite film and watched films, and 
+3. show the different of thoughts between fans and non-fans toward Star Wars films. 
+
+
+#### Creator
+
+Chatpisut Makornkhan (cmak0010@student.monash.edu)
+
+<details>
+<summary>Session information</summary>
+```{r, echo = FALSE}
+sessioninfo::session_info()
+```
+</details>
+
+
+
+              
+              
